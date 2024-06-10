@@ -20,3 +20,9 @@ Screen1 As screen:
         Y: =358
         ZIndex: =3
 
+    Label2 As label:
+        Text: ="Test Update"
+        X: =232
+        Y: =358
+        ZIndex: =4
+
